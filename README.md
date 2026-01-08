@@ -1,6 +1,14 @@
 # Simple LMS - Learning Management System
 
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-4.2-green.svg)](https://www.djangoproject.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Redis](https://img.shields.io/badge/Redis-7.0-red.svg)](https://redis.io/)
+
 A complete Django-based Learning Management System with REST API, JWT authentication, Redis caching, and role-based access control.
+
+## 🌐 Live Repository
+**GitHub:** [https://github.com/faishal55/sisiserver](https://github.com/faishal55/sisiserver)
 
 ## 🎯 Features
 
